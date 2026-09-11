@@ -5,8 +5,8 @@
 
 ## Team Members
 
-🦸
-🦹
+🦸 Zac Signorino
+🦹 Colin Johnston
 
 ## 🎓 Learning Objectives
 
